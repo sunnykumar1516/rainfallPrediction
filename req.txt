@@ -1,0 +1,9 @@
+pandas
+mlflow
+numpy
+notebook
+scikit-learn
+pyYAML
+python-Box
+joblib
+ensure
