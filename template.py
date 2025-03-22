@@ -16,8 +16,9 @@ list_files =[
     "params.yaml",
     "schema.yaml",
     "main.py",
-    "research/research.ipynb"
-
+    "research/research.ipynb",
+    "data/raw/__init__.py",
+    "data/cleaned/__init__.py"
 ]
 
 for filepath in list_files:

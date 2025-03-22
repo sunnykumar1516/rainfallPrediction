@@ -1,0 +1,4 @@
+preprocess:
+  input: data/raw/weatherAUS.csv
+  output: data/cleaned/data.csv
+
